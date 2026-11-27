@@ -1,0 +1,54 @@
+x,y,orig_N,orig_E,type,p1,p2,p3,p4,p5,text,item_name,location_text
+6,0,,,venue,arenapit,0,,,,by an Arena pit (not built yet - original Special 100),,by an Arena pit.
+31,0,,,venue,staircase,0,,,,"stairs (staircase.cpp by x,y)",,at a stairway leading up.
+0,1,,,venue,staircase,0,,,,"stairs (staircase.cpp by x,y)",,at a stairway leading up.
+17,1,,,encounter,15,40,8,,,VAMPIRE x8,,"in an old, looted crypt."
+19,2,,,treasure,6,45,,,,A cloak dances to and fro before you.,Cloak Of Levitation,"in an old, looted crypt."
+27,2,,,teleport,1,16,30,,instant,old Special 0x100,,"in a large, chilly room."
+5,4,,,message,16,,,,,,,in a dank hall.
+2,5,,,venue,guild,13,,,,in the Paladins' Guild,,in the Paladins' Guild.
+28,5,,,encounter,19,55,1,,,DOPPLEGANGER x1,,in the Hall of Mirrors.
+16,6,,,venue,module,21,,,,at the Dwarven smithy,,at the Dwarven smithy.
+17,6,,,venue,module,21,,,,at the Dwarven smithy,,at the Dwarven smithy.
+18,6,,,venue,module,21,,,,at the Dwarven smithy,,at the Dwarven smithy.
+15,7,,,message,3,,,,,,,in a damp hall.
+16,7,,,venue,module,21,,,,at the Dwarven smithy,,at the Dwarven smithy.
+17,7,,,venue,module,21,,,,at the Dwarven smithy,,at the Dwarven smithy.
+18,7,,,venue,module,21,,,,at the Dwarven smithy,,at the Dwarven smithy.
+19,7,,,message,3,,,,,,,in a damp hall.
+8,8,,,treasure,7,50,,,,There is a glistening breastplate that @@ looks as if it was made just for you.,Crystal Breastplate,walking on thin ice.
+16,8,,,venue,module,21,,,,at the Dwarven smithy,,at the Dwarven smithy.
+17,8,,,venue,module,21,,,,at the Dwarven smithy,,at the Dwarven smithy.
+18,8,,,venue,module,21,,,,at the Dwarven smithy,,at the Dwarven smithy.
+26,8,,,venue,clotheshorse,0,,,,in the Clothes Horse's room (clothesHorse.cpp; trade = named flag clotheshorse),,in the Clothes Horse's room.
+17,12,,,venue,staircase,0,,,,"stairs (staircase.cpp by x,y)",,at a stairway leading down.
+28,12,,,encounter,19,55,1,,,DOPPLEGANGER x1,,in the Hall of Mirrors.
+25,14,,,message,14,,,,,,,in a dank hall.
+28,14,,,message,21,,,,,,,in the Hall of the Adept.
+24,15,,,venue,fountain,0,,,,at a crystal clear fountain,,at a crystal clear fountain.
+25,15,,,venue,fountain,0,,,,at a crystal clear fountain,,at a crystal clear fountain.
+21,16,,,teleport,1,60,7,,instant,old Special 0xfe,,in a small room.
+23,16,,,message,14,,,,,,,in a damp hall.
+24,16,,,venue,fountain,0,,,,at a crystal clear fountain,,at a crystal clear fountain.
+25,16,,,venue,fountain,0,,,,at a crystal clear fountain,,at a crystal clear fountain.
+0,17,,,treasure,23,174,,,,There is a dark cowl here.,Robins Hood,in an old storage room.
+28,18,,,message,22,,,,,,,by a river crossing.
+8,19,,,venue,guild,12,,,,in the Mercenaries' Guild,,in the Mercenaries' Guild.
+28,19,,,venue,ferry,0,,,,at a river crossing,,at a river crossing.
+17,21,,,encounter,2,6,1,,,UNDEAD_KNIGHT x1,,near the river Stonz.
+19,21,,,encounter,1,6,1,,,UNDEAD_KNIGHT x1,,near the river Stonz.
+21,21,,,encounter,0,6,1,,,UNDEAD_KNIGHT x1,,near the river Stonz.
+17,23,,,encounter,3,6,1,,,UNDEAD_KNIGHT x1,,near the river Stonz.
+7,24,,,message,4,,,,,,,in Mordred's maze.
+19,24,,,teleport,2,11,0,,instant,old Special 0xfb,,in an abandoned guard room.
+7,25,,,venue,brewery,0,,,,at Lucky's potion brewery (not built yet - original Special 22),,at Lucky's potion brewery.
+13,25,,,encounter,6,6,1,,,UNDEAD_KNIGHT x1,,near the river Stonz.
+15,25,,,encounter,5,6,1,,,UNDEAD_KNIGHT x1,,near the river Stonz.
+17,25,,,encounter,4,6,1,,,UNDEAD_KNIGHT x1,,near the river Stonz.
+13,26,,,venue,king,0,,,,at the Undead King's Palace,,at the Undead King's Palace.
+14,26,,,venue,king,0,,,,at the Undead King's Palace,,at the Undead King's Palace.
+19,26,,,treasure,32,57,,,,A tarot card lies here. @@ It shows a skeleton riding a pale horse.,Death Card,in an abandoned guard room.
+14,27,,,venue,king,0,,,,at the Undead King's Palace,,at the Undead King's Palace.
+0,31,,,venue,staircase,0,,,,"stairs (staircase.cpp by x,y)",,at a stairway leading up.
+11,31,,,venue,entrance400,0,,,,in a strange corridor (not built yet - original Special 4),,in a strange corridor.
+31,31,,,venue,staircase,0,,,,"stairs (staircase.cpp by x,y)",,at a stairway leading up.

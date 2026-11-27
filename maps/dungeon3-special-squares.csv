@@ -1,0 +1,45 @@
+x,y,orig_N,orig_E,type,p1,p2,p3,p4,p5,text,item_name,location_text
+10,3,,,venue,staircase,0,,,,"stairs (staircase.cpp by x,y)",,at a stairway leading up.
+3,4,,,teleport,3,0,18,,instant,old Special 0xf7,,toast! LEV 3.
+10,4,,,venue,staircase,0,,,,"stairs (staircase.cpp by x,y)",,at a stairway leading up.
+4,5,,,treasure,33,73,,,,There are 10 quarrels in a clip here. @@ Their tips glow like hot coals.,Flame Quarrels,in a snaking hallway.
+7,7,,,venue,deathsdoor,0,,,,"Death's Door - use the PAC Card to reach level 4 1,2 W; without it you land outside the Gauntlet at 7,6 (lift.cpp, original 22-s409)",,at Death's Door.
+8,7,,,venue,deathsdoor,0,,,,"Death's Door - use the PAC Card to reach level 4 1,2 W; without it you land outside the Gauntlet at 7,6 (lift.cpp, original 22-s409)",,at Death's Door.
+9,7,,,message,6,,,,,,,standing before the Gauntlet.
+10,7,,,venue,gauntlet,0,,,,standing before the Gauntlet (not built yet - original Special 32),,standing before the Gauntlet.
+11,7,,,encounter,25,46,4,,,FLAME_DEMON x4,,inside the Gauntlet.
+12,7,,,venue,gauntlet,0,,,,standing before the Gauntlet (not built yet - original Special 32),,inside the Gauntlet.
+7,8,,,venue,deathsdoor,0,,,,"Death's Door - use the PAC Card to reach level 4 1,2 W; without it you land outside the Gauntlet at 7,6 (lift.cpp, original 22-s409)",,at Death's Door.
+8,8,,,venue,deathsdoor,0,,,,"Death's Door - use the PAC Card to reach level 4 1,2 W; without it you land outside the Gauntlet at 7,6 (lift.cpp, original 22-s409)",,at Death's Door.
+10,8,,,encounter,30,55,8,,,DOPPLEGANGER x8,,inside the Gauntlet.
+12,8,,,encounter,26,52,1,,,VALKYRIE x1,,inside the Gauntlet.
+1,9,,,message,5,,,,,,,in a wide corridor.
+10,9,,,encounter,29,33,1,,,SMALL_DRAGON x1,,inside the Gauntlet.
+11,9,,,encounter,28,40,1,,,VAMPIRE x1,,inside the Gauntlet.
+12,9,,,venue,gauntlet,0,,,,standing before the Gauntlet (not built yet - original Special 32),,inside the Gauntlet.
+2,10,,,venue,gargoyle,0,,,,facing a fearsome gargoyle (not built yet - original Special 14),,facing a fearsome gargoyle.
+11,10,,,venue,gauntlet,0,,,,standing before the Gauntlet (not built yet - original Special 32),,inside the Gauntlet.
+12,10,,,encounter,27,70,1,,,HORNED_DEVIL x1,,inside the Gauntlet.
+7,12,,,message,17,,,,,,,in a filthy tunnel.
+9,12,,,treasure,10,80,,,,Directions on a small vial here read: @@ 1. Pour over hands.  @@ 2. Rub hands firmly.,Iron Palm Salve,in a small room.
+0,13,,,venue,dragonlair,0,,,,"at the Great Dragon's lair (acrinimiril.cpp - Bloodstone for a staff piece, or fight him (named flag greatdragon) and search the lair)",,at the Great Dragon's lair.
+1,13,,,venue,dragonlair,0,,,,"at the Great Dragon's lair (acrinimiril.cpp - Bloodstone for a staff piece, or fight him (named flag greatdragon) and search the lair)",,at the Great Dragon's lair.
+2,13,,,venue,dragonlair,0,,,,"at the Great Dragon's lair (acrinimiril.cpp - Bloodstone for a staff piece, or fight him (named flag greatdragon) and search the lair)",,at the Great Dragon's lair.
+3,13,,,venue,dragonlair,0,,,,"at the Great Dragon's lair (acrinimiril.cpp - Bloodstone for a staff piece, or fight him (named flag greatdragon) and search the lair)",,at the Great Dragon's lair.
+14,13,,,encounter,7,65,1,,,BASILISK x1,,in a damp hallway.
+0,14,,,venue,dragonlair,0,,,,"at the Great Dragon's lair (acrinimiril.cpp - Bloodstone for a staff piece, or fight him (named flag greatdragon) and search the lair)",,at the Great Dragon's lair.
+1,14,,,venue,dragonlair,0,,,,"at the Great Dragon's lair (acrinimiril.cpp - Bloodstone for a staff piece, or fight him (named flag greatdragon) and search the lair)",,at the Great Dragon's lair.
+2,14,,,venue,dragonlair,0,,,,"at the Great Dragon's lair (acrinimiril.cpp - Bloodstone for a staff piece, or fight him (named flag greatdragon) and search the lair)",,at the Great Dragon's lair.
+3,14,,,venue,dragonlair,0,,,,"at the Great Dragon's lair (acrinimiril.cpp - Bloodstone for a staff piece, or fight him (named flag greatdragon) and search the lair)",,at the Great Dragon's lair.
+14,14,,,venue,fountain,0,,,,at a sparkling fountain,,at a sparkling fountain.
+15,14,,,venue,fountain,0,,,,at a sparkling fountain,,at a sparkling fountain.
+0,15,,,venue,dragonlair,0,,,,"at the Great Dragon's lair (acrinimiril.cpp - Bloodstone for a staff piece, or fight him (named flag greatdragon) and search the lair)",,at the Great Dragon's lair.
+1,15,,,venue,dragonlair,0,,,,"at the Great Dragon's lair (acrinimiril.cpp - Bloodstone for a staff piece, or fight him (named flag greatdragon) and search the lair)",,at the Great Dragon's lair.
+2,15,,,venue,dragonlair,0,,,,"at the Great Dragon's lair (acrinimiril.cpp - Bloodstone for a staff piece, or fight him (named flag greatdragon) and search the lair)",,at the Great Dragon's lair.
+3,15,,,venue,dragonlair,0,,,,"at the Great Dragon's lair (acrinimiril.cpp - Bloodstone for a staff piece, or fight him (named flag greatdragon) and search the lair)",,at the Great Dragon's lair.
+6,15,,,venue,staircase,0,,,,"stairs (staircase.cpp by x,y)",,at a stairway leading up.
+9,15,,,treasure,8,82,,,,A straight  single-edged  evil-looking @@ sword of oriental design lies here.,Junais Sword,in a narrow room.
+14,15,,,venue,fountain,0,,,,at a sparkling fountain,,at a sparkling fountain.
+15,15,,,venue,fountain,0,,,,at a sparkling fountain,,at a sparkling fountain.
+5,16,,,treasure,17,96,,,,There is golden helm with @@ thirteen jewels here.,Melvins Helm,in the room of confusion.
+3,19,,,teleport,3,13,15,,instant,old Special 0xf8,,toast! LEV 3.

@@ -1,0 +1,9 @@
+x,y,orig_N,orig_E,type,p1,p2,p3,p4,p5,text,item_name,location_text
+4,0,,,venue,gateway,0,,,,at the Gateway to Revelation (not built yet - original Special 4),,at the Gateway to Revelation.
+5,2,,,venue,aliencontrol,0,,,,in an alien control room (lift.cpp shopAlienControl; guard beaten = named flag alienguard),,in an alien control room.
+6,2,,,venue,aliencontrol,0,,,,in an alien control room (lift.cpp shopAlienControl; guard beaten = named flag alienguard),,in an alien control room.
+7,2,,,venue,lift,0,,,,in a small room,,in a small room.
+5,3,,,venue,aliencontrol,0,,,,in an alien control room (lift.cpp shopAlienControl; guard beaten = named flag alienguard),,in an alien control room.
+6,3,,,venue,aliencontrol,0,,,,in an alien control room (lift.cpp shopAlienControl; guard beaten = named flag alienguard),,in an alien control room.
+2,7,,,treasure,27,26,,,,An energy pistol is hanging @@ on a wall rack.,Beam Weapon,inside a seemingly unused room.
+13,12,,,teleport,1,24,59,,instant,old Special 0xff,,toast! LEV 4

@@ -1,0 +1,176 @@
+x,y,orig_N,orig_E,type,p1,p2,p3,p4,p5,text,item_name,location_text
+31,0,63,31,teleport,1,33,0,,instant,old Special 0xf1 (original facing byte 0xff),,in The City's sewer system.
+32,0,63,32,teleport,1,30,0,,instant,old Special 0xf2 (original facing byte 0xff),,in The City's sewer system.
+6,1,62,6,treasure,18,48,3,,,A crossbow of incredibly fine @@ mechanical workmanship lies here.,Crossbow,in a small room.
+11,1,62,11,treasure,21,224,,,,There are 10 quarrels in @@ a metallic clip here.,Thunder Quarrels,in a small room.
+31,1,62,31,treasure,13,235,,,,There is a small rectangular @@ sharpening stone here.,Whetstone,in an old storage room.
+33,1,62,33,treasure,25,1,99,,,There is evidence of small @@ weapons fire here.,Gauss Rifle,in a long corridor.
+36,1,62,36,treasure,26,201,,,,There are some disgusting stains @@ on the floor and an odd looking @@ silvery quilted vest.,Solar Suit,in a long corridor.
+41,1,62,41,teleport,1,43,1,,instant,old Special 0xe8 (original facing byte 0xff),,in a long corridor.
+58,1,62,58,venue,module,29,,,,Der Rathskeller,,at Der Rathskeller Bar & Grille
+59,1,62,59,venue,module,29,,,,Der Rathskeller,,at Der Rathskeller Bar & Grille
+60,1,62,60,venue,module,29,,,,Der Rathskeller,,at Der Rathskeller Bar & Grille
+61,1,62,61,venue,module,29,,,,Der Rathskeller,,at Der Rathskeller Bar & Grille
+62,1,62,62,venue,module,29,,,,Der Rathskeller,,at Der Rathskeller Bar & Grille
+2,2,61,2,venue,module,6,,,,bank vaults,,in Gram's Gold Exchange vault.
+55,2,61,55,venue,retreat,0,,,,the Retreat,,at the Retreat.
+56,2,61,56,venue,retreat,0,,,,the Retreat,,at the Retreat.
+58,2,61,58,venue,module,29,,,,Der Rathskeller,,at Der Rathskeller Bar & Grille
+59,2,61,59,venue,module,29,,,,Der Rathskeller,,at Der Rathskeller Bar & Grille
+60,2,61,60,venue,module,29,,,,Der Rathskeller,,at Der Rathskeller Bar & Grille
+61,2,61,61,venue,module,29,,,,Der Rathskeller,,at Der Rathskeller Bar & Grille
+62,2,61,62,venue,module,29,,,,Der Rathskeller,,at Der Rathskeller Bar & Grille
+45,3,60,45,venue,damon,0,,,,Damon & Pythias,,at the Damon & Pythias Shoppe.
+46,3,60,46,venue,damon,0,,,,Damon & Pythias,,at the Damon & Pythias Shoppe.
+50,3,60,50,venue,staircase,0,,,,"stairs / City entrance (staircase.cpp by x,y)",,at an entrance to The City.
+54,3,60,54,message,1,,,,,,,in a well-lighted area.
+55,3,60,55,venue,retreat,0,,,,the Retreat,,at the Retreat.
+56,3,60,56,venue,retreat,0,,,,the Retreat,,at the Retreat.
+58,3,60,58,venue,module,29,,,,Der Rathskeller,,at Der Rathskeller Bar & Grille
+60,3,60,60,message,2,,,,,,,in a well-lighted area.
+62,3,60,62,venue,module,29,,,,Der Rathskeller,,at Der Rathskeller Bar & Grille
+31,4,59,31,treasure,24,6,,,,A golden apple rests on a golden @@ pillow.  Inscribed on the apple @@ are the words: @@ For the pretty one.,Golden Apple,in yet another small room.
+45,4,59,45,venue,damon,0,,,,Damon & Pythias,,at the Damon & Pythias Shoppe.
+46,4,59,46,venue,damon,0,,,,Damon & Pythias,,at the Damon & Pythias Shoppe.
+47,4,59,47,message,0,,,,,,,in a corridor.
+50,4,59,50,venue,guild,7,,,,at the Wizards of Chaos Guild,,at the Wizards of Chaos Guild.
+51,4,59,51,encounter,8,55,1,,,DOPPLEGANGER x1,,in a room with two doors.
+45,5,58,45,venue,damon,0,,,,Damon & Pythias,,at the Damon & Pythias Shoppe.
+46,5,58,46,venue,damon,0,,,,Damon & Pythias,,at the Damon & Pythias Shoppe.
+54,5,58,54,encounter,21,28,8,,,HOMUNCULUS x8,,in a debris-littered room.
+60,5,58,60,encounter,24,37,1,,,GHOST x1,,in a creepy room.
+38,6,57,38,treasure,9,92,,,,A curious-looking stone fastens @@ itself around your neck.,Loadstone,in a secret corridor.
+27,7,56,27,message,18,,,,,,,in a passage.
+42,7,56,42,teleport,1,24,59,,instant,old Special 0xff (original facing byte 0x3),,toast! LEV 1.2
+48,7,56,48,teleport,1,43,28,,instant,old Special 0xeb (original facing byte 0xff),,toast! LEV 1.2
+58,7,56,58,encounter,22,34,8,,,SKELETON x8,,in a creepy room.
+62,7,56,62,treasure,31,103,,,,A tarot card lies face down here. @@ It shows a young page holding a cup.,Page Of Cups Card,in a treasure room.
+27,8,55,27,venue,chapel,0,,,,Dungeon Chapel,,in the Dungeon Chapel.
+28,8,55,28,venue,chapel,0,,,,Dungeon Chapel,,in the Dungeon Chapel.
+31,8,55,31,venue,chapel,0,,,,Dungeon Chapel,,in the Chapel Sanctuary.
+39,9,54,39,encounter,31,0,1,,,DEVOURER x1,,in a treasure room.
+48,10,53,48,teleport,1,43,31,,instant,old Special 0xec (original facing byte 0xff),,toast! LEV 1.2
+2,14,49,2,venue,goblins,0,,,,Goblin king's palace,,at the Goblin king's palace.
+3,14,49,3,encounter,goblins,0,0,,,Goblin Lord + 8 goblins,,in the Goblins' demesne.
+6,14,49,6,message,11,,,,,,,in a passage.
+58,14,49,58,venue,guild,9,,,,at the Guild of Order,,at the Guild of Order.
+62,14,49,62,venue,guild,8,,,,at the Wizards of Law Guild,,at the Wizards of Law Guild.
+17,15,48,17,treasure,16,198,,,,The decaying remains of an adventurer @@ sporting a bush hat and a very nasty @@ knife are here. Inscribed on the broken @@ blade is the word '  G'day  '.  Lying next @@ to him are six tall metal cylinders.,Six Pack,in a long corridor.
+16,17,46,16,venue,staircase,0,,,,"stairs / City entrance (staircase.cpp by x,y)",,at a stairway leading down.
+36,17,46,36,teleport,1,18,41,,instant,old Special 0xee (original facing byte 0x80),,in a treasure room.
+49,17,46,49,venue,staircase,0,,,,"stairs / City entrance (staircase.cpp by x,y)",,at a stairway leading down.
+41,18,45,41,treasure,4,13,,,,A helm glowing with runes floats @@ in midair before you.,Helm Of Light,in a debris-littered room.
+44,18,45,44,treasure,3,97,,,,You find a dainty little crown.,Morganas Tiara,in a musty room.
+47,18,45,47,treasure,1,240,,,,A powerful but feminine voice says: @@For thy victory I give thee these @@ sandals to make thee quick and agile.,Winged Sandals,in a debris-littered room.
+41,19,44,41,encounter,13,46,4,,,FLAME_DEMON x4,,in a debris-littered room.
+44,19,44,44,encounter,12,39,3,,,WRAITH x3,,in a musty room.
+47,19,44,47,encounter,10,52,1,,,VALKYRIE x1,,in a debris-littered room.
+14,22,41,14,teleport,1,18,30,,instant,old Special 0xe0 (original facing byte 0xff),,toast! LEV 1.1
+15,22,41,15,teleport,1,29,23,N,instant,old Special 0xe4 (original facing byte 0x0),,toast! LEV 1.1
+16,22,41,16,teleport,1,5,26,,instant,old Special 0xe5 (original facing byte 0xff),,toast! LEV 1.1
+28,22,41,28,teleport,1,5,26,,instant,old Special 0xe5 (original facing byte 0xff),,toast! LEV 1.1
+29,22,41,29,teleport,1,20,31,N,instant,old Special 0xe6 (original facing byte 0x0),,toast! LEV 1.1
+30,22,41,30,teleport,1,19,27,E,instant,old Special 0xe2 (original facing byte 0x1),,toast! LEV 1.1
+45,22,41,45,message,13,,,,,,,in a dangerous area.
+52,22,41,52,venue,palaceentrance,0,,,,entrance to the Palace (not built yet - original Special 301),,at the Palace entrance.
+18,23,40,18,teleport,1,16,1,,instant,old Special 0xe7 (original facing byte 0xff),,toast! LEV 1.1
+41,25,38,41,encounter,14,25,7,,,DWARF x7,,in a quiet room.
+42,25,38,42,treasure,5,230,,,,A chain-mail coat gleems with an @@ almost magical lustre.,Truesilver Coat,in a quiet room.
+44,25,38,44,encounter,11,63,1,,,GREAT_NAGA x1,,in a creepy room.
+45,25,38,45,treasure,2,149,,,,After some prying a small chest @@ opens to reveal a potion vial.,Potion Of Restoration,in a creepy room.
+47,25,38,47,encounter,9,5,1,,,LICH x1,,in a nondescript room.
+17,26,37,17,teleport,1,18,27,W,instant,old Special 0xe1 (original facing byte 0x3),,toast! LEV 1.1
+20,26,37,20,teleport,1,15,23,N,instant,old Special 0xe3 (original facing byte 0x0),,toast! LEV 1.1
+48,26,37,48,treasure,0,223,,,,Sealed in an envelope is a trump card.,The Star Card,in a nondescript room.
+11,27,36,11,treasure,22,208,,,,There is a long electrum rod here.,Staff Of Amber,in a nondescript room.
+17,27,36,17,teleport,1,5,26,,instant,old Special 0xe5 (original facing byte 0xff),,toast! LEV 1.1
+20,27,36,20,teleport,1,18,27,W,instant,old Special 0xe1 (original facing byte 0x3),,toast! LEV 1.1
+26,27,36,26,message,24,,,,,,,in a hallway.
+31,27,36,31,venue,tomb,0,,,,tomb of Acrinimiril (acrinimiril.cpp - return the 3 staff pieces for +2 Int / +2 Wis / PAC Card),,in the tomb of Acrinimiril.
+58,27,36,58,venue,prison,0,,,,Palace Prison,,toast! LEV 1.2
+59,27,36,59,venue,prison,0,,,,Palace Prison,,in the Palace Prison.
+60,27,36,60,venue,prison,0,,,,Palace Prison,,toast! LEV 1.2
+17,28,35,17,teleport,1,19,27,E,instant,old Special 0xe2 (original facing byte 0x1),,toast! LEV 1.1
+20,28,35,20,teleport,1,5,26,,instant,old Special 0xe5 (original facing byte 0xff),,toast! LEV 1.1
+44,28,35,44,teleport,1,49,7,,instant,old Special 0xe9 (original facing byte 0xff),,in a spacious room.
+17,29,34,17,teleport,1,18,30,,instant,old Special 0xe0 (original facing byte 0xff),,toast! LEV 1.1
+18,29,34,18,teleport,1,18,27,W,instant,old Special 0xe1 (original facing byte 0x3),,toast! LEV 1.1
+19,29,34,19,teleport,1,5,26,,instant,old Special 0xe5 (original facing byte 0xff),,toast! LEV 1.1
+35,30,33,35,message,20,,,,,,,in a typical Dungeon corridor.
+44,30,33,44,venue,guild,0,,,,at the Thieves' Guild,,at the Thieves' Guild.
+0,31,32,0,teleport,1,0,33,,instant,old Special 0xef (original facing byte 0xff),,in The City's sewer system.
+35,31,32,35,teleport,1,35,33,,instant,old Special 0xf9 (original facing byte 0xff),,in a typical Dungeon corridor.
+44,31,32,44,teleport,1,49,10,,instant,old Special 0xea (original facing byte 0xff),,in a spacious room.
+63,31,32,63,teleport,1,63,33,,instant,old Special 0xf4 (original facing byte 0xff),,in The City's sewer system.
+0,32,31,0,teleport,1,0,30,,instant,old Special 0xf0 (original facing byte 0xff),,in The City's sewer system.
+7,32,31,7,message,9,,,,,,,in the Taurean Maze.
+25,32,31,25,encounter,17,33,1,,,SMALL_DRAGON x1,,in the Taurean Maze.
+35,32,31,35,teleport,1,35,30,,instant,old Special 0xfa (original facing byte 0xff),,in the Pythoness' Maze.
+63,32,31,63,teleport,1,63,30,,instant,old Special 0xf3 (original facing byte 0xff),,in The City's sewer system.
+59,35,28,59,treasure,20,95,,,,A note reads: ||  Congratulations my good  ^^ on @@ getting this far. @@ A friend,Map Stone,in a secret passage.
+35,36,27,35,venue,oracle,0,,,,Oracle of Wisdom,,facing the Oracle of Wisdom.
+48,38,25,48,treasure,15,30,,,,Inscribed on the blade of a dagger @@ are the words: @@ Fear not The Reaper,Blue Pearl Dagger,in a Cult room.
+18,39,24,18,encounter,17,33,1,,,SMALL_DRAGON x1,,in the Taurean Maze.
+3,40,23,3,treasure,11,218,,,,A sword protrudes from a slab @@ of black marble.,Sword Of The Adept,in a creepy room.
+61,40,23,61,treasure,12,166,,,,A katana in a ribbed black lacquered @@ scabbard rests against a wall. @@ A pattern of snowflakes has been @@ honed along its single edge.,Razor Ice,in a musty room.
+16,41,22,16,message,10,,,,,,,in the Taurean Maze.
+21,41,22,21,encounter,18,48,3,,,GIANT_WOLF x3,,in the Taurean Maze.
+11,42,21,11,message,8,,,,,,,in the Taurean Maze.
+33,42,21,33,venue,guild,5,,,,at the Dark Wizards Guild,,at the Dark Wizards Guild.
+6,43,20,6,encounter,17,33,1,,,SMALL_DRAGON x1,,in the Taurean Maze.
+18,43,20,18,encounter,18,48,3,,,GIANT_WOLF x3,,in the Taurean Maze.
+19,45,18,19,encounter,18,48,3,,,GIANT_WOLF x3,,in the Taurean Maze.
+48,47,16,48,venue,staircase,0,,,,"stairs / City entrance (staircase.cpp by x,y)",,at a stairway leading down.
+3,48,15,3,treasure,19,18,,,,A blue-violet quartz rod lies @@ on a purple dais.,Amethyst Rod,in a secret room.
+7,48,15,7,encounter,17,33,1,,,SMALL_DRAGON x1,,in a treasure room.
+16,48,15,16,venue,staircase,0,,,,"stairs / City entrance (staircase.cpp by x,y)",,at a stairway leading down.
+48,48,15,48,venue,staircase,0,,,,"stairs / City entrance (staircase.cpp by x,y)",,at a stairway leading down.
+1,50,13,1,message,23,,,,,,,in a blink-mine field.
+2,50,13,2,teleport,1,18,41,,instant,old Special 0xee (original facing byte 0x80),,in a blink-mine field.
+6,50,13,6,teleport,1,18,41,,instant,old Special 0xee (original facing byte 0x80),,in a blink-mine field.
+1,51,12,1,message,23,,,,,,,in a blink-mine field.
+4,51,12,4,teleport,1,18,41,,instant,old Special 0xee (original facing byte 0x80),,in a blink-mine field.
+14,51,12,14,message,14,,,,,,,in a damp area.
+1,52,11,1,message,23,,,,,,,in a blink-mine field.
+2,52,11,2,teleport,1,18,41,,instant,old Special 0xee (original facing byte 0x80),,in a blink-mine field.
+3,52,11,3,teleport,1,18,41,,instant,old Special 0xee (original facing byte 0x80),,in a blink-mine field.
+6,52,11,6,teleport,1,18,41,,instant,old Special 0xee (original facing byte 0x80),,in a blink-mine field.
+7,52,11,7,teleport,1,18,41,,instant,old Special 0xee (original facing byte 0x80),,in a blink-mine field.
+13,52,11,13,venue,fountain,0,,,,bubbling fountain,,at a bubbling fountain.
+14,52,11,14,venue,fountain,0,,,,bubbling fountain,,at a bubbling fountain.
+15,52,11,15,venue,fountain,0,,,,bubbling fountain,,at a bubbling fountain.
+1,53,10,1,message,23,,,,,,,in a blink-mine field.
+4,53,10,4,teleport,1,18,41,,instant,old Special 0xee (original facing byte 0x80),,in a blink-mine field.
+5,53,10,5,teleport,1,18,41,,instant,old Special 0xee (original facing byte 0x80),,in a blink-mine field.
+6,53,10,6,teleport,1,18,41,,instant,old Special 0xee (original facing byte 0x80),,in a blink-mine field.
+12,53,10,12,message,14,,,,,,,in a damp area.
+13,53,10,13,venue,fountain,0,,,,bubbling fountain,,at a bubbling fountain.
+14,53,10,14,venue,fountain,0,,,,bubbling fountain,,at a bubbling fountain.
+15,53,10,15,venue,fountain,0,,,,bubbling fountain,,at a bubbling fountain.
+16,53,10,16,message,14,,,,,,,in a damp area.
+1,54,9,1,message,23,,,,,,,in a blink-mine field.
+2,54,9,2,teleport,1,18,41,,instant,old Special 0xee (original facing byte 0x80),,in a blink-mine field.
+5,54,9,5,teleport,1,18,41,,instant,old Special 0xee (original facing byte 0x80),,in a blink-mine field.
+13,54,9,13,venue,fountain,0,,,,bubbling fountain,,at a bubbling fountain.
+14,54,9,14,venue,fountain,0,,,,bubbling fountain,,at a bubbling fountain.
+15,54,9,15,venue,fountain,0,,,,bubbling fountain,,at a bubbling fountain.
+17,54,9,17,teleport,1,54,7,,instant,old Special 0xfc (original facing byte 0x2),,in a room filled with debris.
+1,55,8,1,message,23,,,,,,,in a blink-mine field.
+3,55,8,3,teleport,1,18,41,,instant,old Special 0xee (original facing byte 0x80),,in a blink-mine field.
+7,55,8,7,teleport,1,18,41,,instant,old Special 0xee (original facing byte 0x80),,in a blink-mine field.
+9,55,8,9,treasure,14,177,,,,Signs of a great battle between a @@ single warrior and a dozen or more @@ adversaries litter this room. @@ Clutched tightly to the warrior's @@ remains is a bottle filled with @@ green liquid.,Saurian Brandy,in a treasure room.
+14,55,8,14,message,14,,,,,,,in a damp area.
+30,57,6,30,venue,module,6,,,,bank vaults,,in the First City Bank's vault.
+36,57,6,36,encounter,23,29,1,,,PHOENIX x1,,in a creepy room.
+52,57,6,52,message,12,,,,,,,in a quiet area.
+55,57,6,55,encounter,trolls,0,0,,,Troll Tyrant + 8 trolls,,in the Troll King's demesne.
+56,57,6,56,venue,trolls,0,,,,Troll King's palace,,at the Troll King's Palace.
+47,58,5,47,teleport,1,58,5,,instant,old Special 0xfd (original facing byte 0x0),,in a small room.
+2,59,4,2,venue,guild,2,,,,at the Light Wizards Guild,,at the Light Wizards Guild.
+45,60,3,45,message,7,,,,,,,in a secret passage.
+45,61,2,45,venue,enchantress,0,,,,Weapon Enchantress (not built yet),,at the Weapon Enchantress'.
+59,62,1,59,venue,staircase,0,,,,"stairs / City entrance (staircase.cpp by x,y)",,at an entrance to The City
+1,63,0,1,message,15,,,,,,,in The City's sewer system.
+31,63,0,31,teleport,1,33,63,,instant,old Special 0xf5 (original facing byte 0xff),,in The City's sewer system.
+32,63,0,32,teleport,1,30,63,,instant,old Special 0xf6 (original facing byte 0xff),,in The City's sewer system.
+33,63,0,33,message,19,,,,,,,in The City's sewer system.
